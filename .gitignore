@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# k6
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+.idea/
